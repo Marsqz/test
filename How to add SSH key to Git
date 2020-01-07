@@ -1,0 +1,5 @@
+参考网站：
+①https://blog.csdn.net/zfs1994/article/details/52682129
+②https://blog.csdn.net/Hanani_Jia/article/details/77950594
+
+关键点：C\用户\Marsqz中出现.ssr文件夹（意味着已经成功创建了公钥）后，需要复制粘贴的不是id_rsa文件，而是id_rsa.pub文件（用笔记本或Notepad++打开）中的公钥（直接复制粘贴即可）！
